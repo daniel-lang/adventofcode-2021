@@ -4,3 +4,4 @@ project(advent-of-code VERSION 1.0 LANGUAGES CXX)
 
 add_subdirectory(01)
 add_subdirectory(02)
+add_subdirectory(03)
