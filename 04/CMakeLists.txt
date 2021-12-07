@@ -1,0 +1,1 @@
+add_executable(04-first first.cpp)
